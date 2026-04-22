@@ -62,6 +62,6 @@ Lógica de aplicação de meia-entrada automática.
 ---
 
 ## ✒️ Autor
-Desenvolvido por **[Seu Nome]** - [Seu GitHub](https://github.com/seu-usuario)
+Desenvolvido por Pedro Antônio
 
 > "A lógica é o princípio da sabedoria, não o fim."
